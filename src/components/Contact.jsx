@@ -136,7 +136,7 @@ export default function Contact() {
                 </Link>
 
                 <Link
-                  href="#"
+                  href="https://www.linkedin.com/in/solayman-sani-933810428"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex h-11 w-11 items-center justify-center rounded-xl border border-white/10 text-gray-400 transition hover:border-red-500 hover:text-red-500"

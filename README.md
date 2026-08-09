@@ -1,36 +1,167 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Solayman Sani — Personal Portfolio
 
-## Getting Started
+A modern and responsive personal portfolio website showcasing my skills, projects, education, and experience as a Full Stack Web Developer.
 
-First, run the development server:
+## 🌐 Live Website
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+[Visit My Portfolio](https://my-personal-portfolio-five-woad.vercel.app)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 👨‍💻 About Me
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Hi, I'm **Solayman Sani**, a passionate Full Stack Web Developer who enjoys building modern, responsive, and user-friendly web applications.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+My programming journey started with HTML, CSS, and JavaScript. I gradually expanded my skills into React.js, Next.js, Node.js, Express.js, MongoDB, and other modern web technologies.
 
-## Learn More
+I enjoy solving development problems, building real-world projects, creating clean user interfaces, and continuously learning new technologies.
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Modern and responsive portfolio design
+- Dark and light theme support
+- Animated hero section
+- About Me section
+- Technical skills showcase
+- Featured projects section
+- Detailed project information
+- Education section
+- Contact section
+- Social media links
+- Downloadable resume
+- Responsive mobile navigation
+- Smooth animations and interactive UI
+- Mobile, tablet, and desktop friendly
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Technologies Used
 
-## Deploy on Vercel
+### Frontend
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Next.js
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Backend
+
+- Node.js
+- Express.js
+- REST API
+- MongoDB
+
+### Tools & Platforms
+
+- Git
+- GitHub
+- Figma
+- Vercel
+
+### Libraries
+
+- Motion
+- Lucide React
+- React Icons
+- Next Themes
+
+## 📂 Featured Projects
+
+### 🩸 BloodConnect
+
+A full-stack blood donation platform designed to connect blood donors with people who need blood.
+
+**Technologies:**
+
+- Next.js
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- Better Auth
+
+**Features:**
+
+- Donor search
+- Blood donation requests
+- User authentication
+- Role-based dashboards
+- Donation request management
+- Blood group filtering
+- Funding system
+- Responsive design
+
+---
+
+### 🎓 SkillSphere
+
+A modern course platform designed to provide an organized and user-friendly learning experience.
+
+**Technologies:**
+
+- Next.js
+- React.js
+- JavaScript
+- Tailwind CSS
+- Firebase
+
+---
+
+### 🚗 DriveHub
+
+A modern car rental and booking platform where users can browse available cars, view car details, and manage bookings.
+
+**Technologies:**
+
+- React.js
+- JavaScript
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
+
+## 🎓 Education
+
+**Master of Business Administration (MBA)**  
+National University, Bangladesh
+
+## 📞 Contact
+
+If you'd like to discuss a project, collaboration, or development opportunity, feel free to get in touch.
+
+**Email:** saniahmed5484@gmail.com
+
+**Phone:** +880 1682604208
+
+**GitHub:** [ssdevcmd](https://github.com/ssdevcmd)
+
+**Portfolio:** [Solayman Sani](https://my-personal-portfolio-five-woad.vercel.app)
+
+**Linkedin:** [Solayman Sani](https://www.linkedin.com/in/solayman-sani-933810428)
+
+## 📄 Resume
+
+You can download my resume from the portfolio website.
+
+## 🎯 Career Objective
+
+My goal is to grow as a professional Full Stack Web Developer, work on meaningful real-world applications, continuously improve my technical skills, and contribute to projects that create useful digital experiences.
+
+## 📌 Future Goals
+
+- Improve my full-stack development skills
+- Build more production-ready applications
+- Learn advanced backend development
+- Improve system design and API development
+- Explore new technologies and frameworks
+- Contribute to open-source projects
+- Work with professional development teams
+
+## ⭐ Why This Portfolio?
+
+This portfolio represents my development journey, technical skills, and projects that I have built while learning and improving as a web developer.
+
+---
+
+### Made with ❤️ by Solayman Sani
+
+**Full Stack Web Developer**

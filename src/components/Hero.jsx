@@ -137,7 +137,7 @@ export default function Hero() {
                         </span>
 
                         <a
-                            href="https://github.com/"
+                            href="https://github.com/ssdevcmd"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-gray-400 transition hover:text-emerald-400"
@@ -147,7 +147,7 @@ export default function Hero() {
                         </a>
 
                         <a
-                            href="https://linkedin.com/"
+                            href="https://www.linkedin.com/in/solayman-sani-933810428"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-gray-400 transition hover:text-emerald-400"
@@ -157,7 +157,7 @@ export default function Hero() {
                         </a>
 
                         <a
-                            href="mailto:your-email@example.com"
+                            href="mailto:saniahmed5484@gmail.com"
                             className="text-gray-400 transition hover:text-emerald-400"
                             aria-label="Email"
                         >
