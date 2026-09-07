@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website showcasing my skills, project
 
 ## 🌐 Live Website
 
-[Visit My Portfolio](https://https://solaymansani-qamh9q830-ssph079-1097s-projects.vercel.app)
+[Visit My Portfolio](https://solaymansani-qamh9q830-ssph079-1097s-projects.vercel.app)
 ## 👨‍💻 About Me
 
 Hi, I'm **Solayman Sani**, a passionate Full Stack Web Developer who enjoys building modern, responsive, and user-friendly web applications.
