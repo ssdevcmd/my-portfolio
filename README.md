@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website showcasing my skills, project
 
 ## 🌐 Live Website
 
-[Visit My Portfolio](https://my-personal-portfolio-five-woad.vercel.app)
+[Visit My Portfolio](https://solaymansani-m8b4p3ekb-ssph079-1097s-projects.vercel.app)
 
 ## 👨‍💻 About Me
 
@@ -134,7 +134,7 @@ If you'd like to discuss a project, collaboration, or development opportunity, f
 
 **GitHub:** [ssdevcmd](https://github.com/ssdevcmd)
 
-**Portfolio:** [Solayman Sani](https://my-personal-portfolio-five-woad.vercel.app)
+**Portfolio:** [Solayman Sani](https://solaymansani-m8b4p3ekb-ssph079-1097s-projects.vercel.app)
 
 **Linkedin:** [Solayman Sani](https://www.linkedin.com/in/solayman-sani-933810428)
 
